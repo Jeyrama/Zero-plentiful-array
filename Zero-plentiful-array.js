@@ -49,3 +49,5 @@ function zeroPlentiful(arr) {
   }
   return count > 0 && count < 4 ? 0 : total
 }
+
+// or
